@@ -27,3 +27,5 @@ variable "ami" {
   type        = string
   default     = "ami-0230bd60aa48260c6"
 }
+
+#final code
